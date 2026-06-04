@@ -263,7 +263,7 @@ Jenis screenshot yang direkomendasikan:
 |---|---|---|---|
 | NAMA_ANGGOTA_1 | NIM_ANGGOTA_1 | Database Designer | Merancang ERD, relasi, dan normalisasi. |
 | ABDURRAHMAN YUSUF | K1D024058 | SQL Developer | Menyusun DDL, DML, query, view, procedure, function, dan trigger. |
-| NAMA_ANGGOTA_3 | NIM_ANGGOTA_3 | Documentation Writer | Menyusun proposal, laporan, data dictionary, dan README. |
+| NAYLA EDENINE QOHAR | K1D024044 | Documentation Writer | Menyusun proposal, laporan, data dictionary, dan README. |
 | NAMA_ANGGOTA_4 | NIM_ANGGOTA_4 | Tester | Menguji script SQL dan validasi hasil query. |
 
 ## Lisensi
